@@ -1,0 +1,8 @@
+prefix=/home/jeff/project/RGBD_annotation/image_collect/install
+
+Name: savePic
+Description: Description of savePic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
