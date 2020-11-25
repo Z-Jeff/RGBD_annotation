@@ -1,0 +1,11 @@
+make, source:
+    catkin_make
+    source devel/setup.bash
+
+background:
+    roscore
+    roslaunch openni2_launch openni2.launch
+run:
+    rosrun savePic saveRGB
+    rosrun savePic savedeepth
+    
