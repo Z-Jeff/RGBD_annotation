@@ -1,2 +1,0 @@
-savePic
--DCATKIN_DEVEL_PREFIX=/home/jeff/project/RGBD_annotation/image_collect/devel -DCMAKE_INSTALL_PREFIX=/home/jeff/project/RGBD_annotation/image_collect/install -G Unix Makefiles
